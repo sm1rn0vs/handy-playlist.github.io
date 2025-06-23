@@ -13,7 +13,10 @@ let currentSongIndex = 2;
 let isSongLoaded = false;
 
 const songs = [
-  "songs/Песня.mp3"
+  "songs/Песня.mp3",
+  "songs/Песня2.mp3",
+  "songs/Milky Chance.mp3",
+  "songs/Two Feet.mp3"
 ];
 
 var swiper = new Swiper(".swiper", {
