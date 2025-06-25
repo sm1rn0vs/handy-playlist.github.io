@@ -16,7 +16,8 @@ const songs = [
   "songs/Песня.mp3",
   "songs/Песня2.mp3",
   "songs/Milky Chance.mp3",
-  "songs/Two Feet.mp3"
+  "songs/Two Feet.mp3",
+  "songs/The Chemical Brothers - Believe.mp3"
 ];
 
 var swiper = new Swiper(".swiper", {
