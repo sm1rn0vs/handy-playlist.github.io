@@ -17,7 +17,24 @@ const songs = [
   "songs/Песня2.mp3",
   "songs/Milky Chance.mp3",
   "songs/Two Feet.mp3",
-  "songs/The Chemical Brothers - Believe.mp3"
+  "songs/The Chemical Brothers - Believe.mp3",
+  "songs/ADOMANT - DAWSON.mp3",
+  "songs/Dan Korshunov - Games.mp3",
+  "songs/Dan Korshunov - PRD.mp3",
+  "songs/Dan Korshunov - Somebody.mp3",
+  "songs/Dj Quba, Sandra K - Black Black Heart.mp3",
+  "songs/Dschinghis Khan - Moskau.mp3",
+  "songs/DYGO, Mxng0, RAIZHELL - KRUSH INFERNAL.mp3",
+  "songs/Ekseption - Dance Macabre.mp3",
+  "songs/FLGTT - Tetris 2K18.mp3",
+  "songs/Fäaschtbänkler - Umtahemd - Радио Гусь.mp3",
+  "songs/gKenzo - Night Style.mp3",
+  "songs/INFXRNAL - Midnight Murder.mp3",
+  "songs/Molière_l'opéra_urbain,_Shaïna_Pronzola,_Vike_Et_si_c'était_nous.mp3",
+  "songs/No Hopes - Sounds Like a Melody.mp3",
+  "songs/Partenaire Particulier - Partenaire Particulier.mp3",
+  "songs/southstar - Cover Up My Face.mp3",
+  "songs/Sub de Santa - So High.mp3"
 ];
 
 var swiper = new Swiper(".swiper", {
